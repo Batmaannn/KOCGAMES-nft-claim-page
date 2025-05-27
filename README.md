@@ -1,4 +1,3 @@
-# KOCGAMES-nft-claim-page
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
